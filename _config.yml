@@ -52,11 +52,11 @@ social:
   #- title: LinkedIn
   #  url: https://www.linkedin.com/in/hiren-patel-6917ab41
    - title: whatsapp
-     url: +919925464328
+     tel: +919925464328
    - title: envelope
-     url: 
-   - title: mobile
-     url:
+     mailto: patel_hirenpatel@yahoo.co.in
+   - title: phone-square
+     tel: +919925464328
 
 # Postal address (add as many lines as necessary)
 address:
