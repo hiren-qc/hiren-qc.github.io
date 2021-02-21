@@ -33,7 +33,7 @@ color:
 # Footer settings
 footer:
   copyright: Hiren Patel
-  location: Location
+  location: Address
   social: Contact Me
   credits: Credits
 
@@ -51,18 +51,12 @@ social:
   #  url: http://github.com/jekyll
   #- title: LinkedIn
   #  url: https://www.linkedin.com/in/hiren-patel-6917ab41
-   - title: whatsapp
-     tel: +919925464328
-   - title: envelope
-     mailto: patel_hirenpatel@yahoo.co.in
-   - title: phone-square
-     tel: +919925464328
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Ram-Krishna society, Chhinam Road
-  - line: Maroli Bazar, PIN-396436, Gujarat
-  - line: India
+  - line: Ram-Krishna society, Chhinam Road,
+  - line: Maroli Bazar, PIN-396436, Gujarat,
+  - line: India.
 
 # Credits content
 credits: 'Page created by <a href="https://github.com/hakerdefo">hakerdefo</a>.'
