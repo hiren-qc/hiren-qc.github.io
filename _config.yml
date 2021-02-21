@@ -51,8 +51,12 @@ social:
   #  url: http://github.com/jekyll
   #- title: LinkedIn
   #  url: https://www.linkedin.com/in/hiren-patel-6917ab41
-  -  title: WhatsApp
+   - title: whatsapp
      url: +919925464328
+   - title: envelope
+     url: 
+   - title: mobile
+     url:
 
 # Postal address (add as many lines as necessary)
 address:
