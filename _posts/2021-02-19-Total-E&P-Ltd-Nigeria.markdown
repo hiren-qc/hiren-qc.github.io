@@ -3,7 +3,7 @@ layout: default
 modal-id: 2
 date: 2021-02-19
 img: nigeria.png
-alt: Click for more information
+alt: image-alt
 project-date: 2015-2017
 client: Total E&P Ltd
 category: QC Supervisor
