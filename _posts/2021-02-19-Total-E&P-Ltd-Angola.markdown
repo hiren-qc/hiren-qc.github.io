@@ -1,0 +1,11 @@
+---
+layout: default
+modal-id: 1
+date: 2021-02-19
+img: project-1.jpg
+alt: Click for more information
+project-date: 2012-2015
+client: Total E&P Ltd
+category: QC Inspector
+description:QC Inspector (Welding) for Piping & Pipeline including spools & jumpers, riser tower quad, Tri and string pipelines, Double joints for gas export and water injection pipelines, Pipe in pipe swage welds, Cladding, Structures including suction piles/ILT/FLET/SIV,URTA & LRTA structures, Buoyancy tanks, Midwater arches.
+---
